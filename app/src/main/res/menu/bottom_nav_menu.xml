@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/categoriesFragment"
+        android:icon="@drawable/ic_round_food_bank_24"
+        android:title="Categories" />
+
+    <item
+        android:id="@+id/favoriteFragment"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorite" />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_round_search_24"
+        android:title="Search" />
+
+</menu>
